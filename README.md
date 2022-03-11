@@ -7,7 +7,7 @@ const Elroy = {
         job: ["Student"],
         sex: ["Male"],
 },               
-    code: ["Javascript", "C#", "Python"],
+    code: ["Javascript", "C#", "Python", "C++", "CSS", "YAML", "Swift"],
     askMeAbout: ["discord dev", "game dev", "app dev", "music"],
     technologies: {
        mobileApp: ["Android App"],
